@@ -36,7 +36,8 @@ export const Ant = () => {
   return (
     <div>
       <div style={{ display: 'flex', justifyContent: 'center', alignItems: 'center', margin: '20px' }}>
-        <div>Convert</div>
+        <div>Convert DogoG </div>
+        
         
         <Divider orientation="center">
           <InputNumber
