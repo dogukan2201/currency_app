@@ -36,7 +36,11 @@ export const Ant = () => {
   return (
     <div>
       <div style={{ display: 'flex', justifyContent: 'center', alignItems: 'center', margin: '20px' }}>
+<<<<<<< Updated upstream
         <div>Convert DogoG </div>
+=======
+        <div>Convert Dogo G ekledi</div>
+>>>>>>> Stashed changes
         
         
         <Divider orientation="center">
